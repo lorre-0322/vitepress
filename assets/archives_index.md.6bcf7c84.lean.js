@@ -1,0 +1,1 @@
+import{_ as t,c as r,a,r as o,o as n}from"./app.61b478ad.js";const v='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"archives/index.md"}',s={};function c(i,_,p,d,l,m){const e=o("Archives");return n(),r("div",null,[a(e)])}var h=t(s,[["render",c]]);export{v as __pageData,h as default};
